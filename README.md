@@ -1,2 +1,2 @@
 # Segredos
- App web onde busco demonstrar na prática diferentes meios de autenticação e segurança de dados.
+ Um projeto web onde busquei implantar diversos métodos de login bem como melhorar a segurança dos dados sensíveis, como senhas e seeds.
