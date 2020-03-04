@@ -6,9 +6,12 @@
 
 Na aplicação, cada usuário pode fazer login e realizar a postagem de um segredo. É possível visualizar o segredo de outras pessoas, mas sem nenhum tipo de identificação, ou seja, é o tipo de aplicação onde a segurança de dados é de extrema importância! 
 
-Login page: ![enter image description here](https://i.imgur.com/neZceAq.png)
+Login page: 
+
+![enter image description here](https://i.imgur.com/neZceAq.png)
 
 Secrets page:
+
 ![enter image description here](https://i.imgur.com/q2g5BF1.png)
 
 Na Secrets page é possível verificar somente o segredo, e não qual usuário realizou cada postagem.
